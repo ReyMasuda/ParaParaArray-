@@ -15,6 +15,16 @@
 		CEC7DD691AA748EC00047E15 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEC7DD681AA748EC00047E15 /* Images.xcassets */; };
 		CEC7DD6C1AA748EC00047E15 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEC7DD6A1AA748EC00047E15 /* LaunchScreen.xib */; };
 		CEC7DD781AA748EC00047E15 /* ParaParaArrayTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CEC7DD771AA748EC00047E15 /* ParaParaArrayTests.m */; };
+		CEC7DD8B1AA7503200047E15 /* 0dango.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC7DD811AA7503200047E15 /* 0dango.png */; };
+		CEC7DD8C1AA7503200047E15 /* 1dango.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC7DD821AA7503200047E15 /* 1dango.png */; };
+		CEC7DD8D1AA7503200047E15 /* 2dangos.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC7DD831AA7503200047E15 /* 2dangos.png */; };
+		CEC7DD8E1AA7503200047E15 /* 3dangos.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC7DD841AA7503200047E15 /* 3dangos.png */; };
+		CEC7DD8F1AA7503200047E15 /* 4dangos.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC7DD851AA7503200047E15 /* 4dangos.png */; };
+		CEC7DD901AA7503200047E15 /* 5dangos.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC7DD861AA7503200047E15 /* 5dangos.png */; };
+		CEC7DD911AA7503200047E15 /* 6dangos.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC7DD871AA7503200047E15 /* 6dangos.png */; };
+		CEC7DD921AA7503200047E15 /* 7dangos.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC7DD881AA7503200047E15 /* 7dangos.png */; };
+		CEC7DD931AA7503200047E15 /* 8dangos.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC7DD891AA7503200047E15 /* 8dangos.png */; };
+		CEC7DD941AA7503200047E15 /* 9dangos.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC7DD8A1AA7503200047E15 /* 9dangos.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +52,16 @@
 		CEC7DD711AA748EC00047E15 /* ParaParaArrayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParaParaArrayTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEC7DD761AA748EC00047E15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CEC7DD771AA748EC00047E15 /* ParaParaArrayTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ParaParaArrayTests.m; sourceTree = "<group>"; };
+		CEC7DD811AA7503200047E15 /* 0dango.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0dango.png; sourceTree = "<group>"; };
+		CEC7DD821AA7503200047E15 /* 1dango.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1dango.png; sourceTree = "<group>"; };
+		CEC7DD831AA7503200047E15 /* 2dangos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2dangos.png; sourceTree = "<group>"; };
+		CEC7DD841AA7503200047E15 /* 3dangos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3dangos.png; sourceTree = "<group>"; };
+		CEC7DD851AA7503200047E15 /* 4dangos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4dangos.png; sourceTree = "<group>"; };
+		CEC7DD861AA7503200047E15 /* 5dangos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5dangos.png; sourceTree = "<group>"; };
+		CEC7DD871AA7503200047E15 /* 6dangos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6dangos.png; sourceTree = "<group>"; };
+		CEC7DD881AA7503200047E15 /* 7dangos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7dangos.png; sourceTree = "<group>"; };
+		CEC7DD891AA7503200047E15 /* 8dangos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8dangos.png; sourceTree = "<group>"; };
+		CEC7DD8A1AA7503200047E15 /* 9dangos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9dangos.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +88,16 @@
 				CEC7DD571AA748EC00047E15 /* ParaParaArray */,
 				CEC7DD741AA748EC00047E15 /* ParaParaArrayTests */,
 				CEC7DD561AA748EC00047E15 /* Products */,
+				CEC7DD811AA7503200047E15 /* 0dango.png */,
+				CEC7DD821AA7503200047E15 /* 1dango.png */,
+				CEC7DD831AA7503200047E15 /* 2dangos.png */,
+				CEC7DD841AA7503200047E15 /* 3dangos.png */,
+				CEC7DD851AA7503200047E15 /* 4dangos.png */,
+				CEC7DD861AA7503200047E15 /* 5dangos.png */,
+				CEC7DD871AA7503200047E15 /* 6dangos.png */,
+				CEC7DD881AA7503200047E15 /* 7dangos.png */,
+				CEC7DD891AA7503200047E15 /* 8dangos.png */,
+				CEC7DD8A1AA7503200047E15 /* 9dangos.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -204,7 +234,17 @@
 			files = (
 				CEC7DD671AA748EC00047E15 /* Main.storyboard in Resources */,
 				CEC7DD6C1AA748EC00047E15 /* LaunchScreen.xib in Resources */,
+				CEC7DD931AA7503200047E15 /* 8dangos.png in Resources */,
+				CEC7DD8D1AA7503200047E15 /* 2dangos.png in Resources */,
+				CEC7DD8B1AA7503200047E15 /* 0dango.png in Resources */,
+				CEC7DD941AA7503200047E15 /* 9dangos.png in Resources */,
+				CEC7DD911AA7503200047E15 /* 6dangos.png in Resources */,
+				CEC7DD901AA7503200047E15 /* 5dangos.png in Resources */,
 				CEC7DD691AA748EC00047E15 /* Images.xcassets in Resources */,
+				CEC7DD8C1AA7503200047E15 /* 1dango.png in Resources */,
+				CEC7DD921AA7503200047E15 /* 7dangos.png in Resources */,
+				CEC7DD8F1AA7503200047E15 /* 4dangos.png in Resources */,
+				CEC7DD8E1AA7503200047E15 /* 3dangos.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
