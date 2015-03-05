@@ -45,9 +45,13 @@
 -(IBAction)next:(id)sender{
     index = index +1; //indexの値を1増やす
     
-    if (index > 2) {
-        index = 0;
+    if (index > 9) { //indexの値が2より大きければ
+        index = 0; //indexの値を0にする
     }
+    
+    [imgView setImage:imgArray[index]]; //画像の設定
+    
+    tittleLabel.text = [NSString stringWithFormat:@"%d枚目",index+1]; //ラベルの設定
 }
 
 @end
